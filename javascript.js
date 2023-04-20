@@ -12,6 +12,10 @@ Console log the function call a few times with both even and odd numbers to
 show that it's working.
 */
 
+const oddChecker = (32) => {};
+
+console.log();
+
 /*
 2.
 
@@ -21,6 +25,11 @@ case with an exclamation mark at the end. Use the non-arrow function syntax (fun
 Example: console.log(yourFunction("this is cool")) should console log THIS IS COOL!
 Console log the function a few times to show that it's working.
 */
+
+/* !!NOT DONE!!
+function (myText){
+	return ;
+}*/
 
 /*
 3.
@@ -77,11 +86,11 @@ Use array methods to do the following:
  - Use the splice method to remove Thor and Hulk and add "Captain America"
 */
 const marvelHeroes = [
-	"Spider-Man",
-	"Thor",
-	"Hulk",
-	"Doctor Strange",
-	"Iron Man"
+  "Spider-Man",
+  "Thor",
+  "Hulk",
+  "Doctor Strange",
+  "Iron Man",
 ];
 
 /*
